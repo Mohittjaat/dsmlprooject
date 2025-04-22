@@ -1,0 +1,6 @@
+numpy
+pandas
+scikit-learn
+nltk
+tables    # for saving/loading .h5 files
+streamlit
